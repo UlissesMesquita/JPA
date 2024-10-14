@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 eclipse.preferences.version=1
 themeid=org.eclipse.e4.ui.css.theme.e4_default
+=======
+eclipse.preferences.version=1
+themeid=org.eclipse.e4.ui.css.theme.e4_classic
+>>>>>>> 4729944536d10da46f0bf9773292a6cec4f46235

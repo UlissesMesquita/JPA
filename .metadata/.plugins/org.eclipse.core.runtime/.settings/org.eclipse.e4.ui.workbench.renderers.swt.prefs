@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 HIDE_ICONS_FOR_VIEW_TABS=false
 SHOW_FULL_TEXT_FOR_VIEW_TABS=false
 USE_ROUND_TABS=true
 eclipse.preferences.version=1
 enableMRU=true
 themeEnabled=false
+=======
+HIDE_ICONS_FOR_VIEW_TABS=false
+SHOW_FULL_TEXT_FOR_VIEW_TABS=false
+USE_ROUND_TABS=false
+eclipse.preferences.version=1
+enableMRU=true
+themeEnabled=true
+>>>>>>> 4729944536d10da46f0bf9773292a6cec4f46235

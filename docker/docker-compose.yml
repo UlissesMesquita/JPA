@@ -1,0 +1,15 @@
+version: '3.1'
+services: 
+
+  loja-db:
+    image: postgres
+    restart: always
+    container_name: loja-db
+    ports:
+      - "5440:5432"
+    environment:
+      POSTGRES_USER: loja-user
+      POSTGRES_PASSWORD: 123456
+      POSTGRES_DB: loja
+    volumes: 
+    - ./.docker/dbdata:/var/lib/postgresql
